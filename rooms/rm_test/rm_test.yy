@@ -43,7 +43,7 @@
   },
   "parent": {
     "name": "xstring",
-    "path": "folders/xstring.yy",
+    "path": "folders/Extensions/xstring.yy",
   },
   "resourceVersion": "1.0",
   "name": "rm_test",

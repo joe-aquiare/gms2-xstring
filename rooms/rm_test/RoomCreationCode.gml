@@ -5,13 +5,8 @@
 
 var sb = xstring_builder();
 
-sb.sb_append("Hello!");
+sb.xsb_append("Hello!");
 
-show_message(sb.sb_get());
-show_message(string(sb.sb_get_length()));
+show_message(sb.xsb_get());
 
-sb.sb_append("I love cake!");
-
-show_message(sb.sb_get());
-
-//sb_append("Hello!");
+xsb_append("Hello!");

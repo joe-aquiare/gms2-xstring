@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/g5cLwKw.png">
 </p>
 
-<b>xstring</b> adds extended string functionality to Gamemaker Studio 2, making it easier to manage and manipulate strings inside your game. 
+<b>xstring</b> adds extended string functionality to Gamemaker Studio 2, making it easier to manage and manipulate strings inside your game. Each script is independent, and can be implemented without the use of any other xstring function. This allows you to pick and choose which functions you want inside your game; or, if you'd like, you can import the whole extension and make use of all of xstring's scripts.
 
-<br><br>
+<br>
 
 <h4>With traditional GML:</h4>
 

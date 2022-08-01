@@ -5,6 +5,7 @@
     {"id":{"name":"xstring_split","path":"scripts/xstring_split/xstring_split.yy",},"order":5,},
     {"id":{"name":"xstring_to_ascii","path":"scripts/xstring_to_ascii/xstring_to_ascii.yy",},"order":12,},
     {"id":{"name":"xstring_concat","path":"scripts/xstring_concat/xstring_concat.yy",},"order":1,},
+    {"id":{"name":"xstring_index_of","path":"scripts/xstring_index_of/xstring_index_of.yy",},"order":18,},
     {"id":{"name":"xstring_from_ascii","path":"scripts/xstring_from_ascii/xstring_from_ascii.yy",},"order":13,},
     {"id":{"name":"xstring_slice","path":"scripts/xstring_slice/xstring_slice.yy",},"order":11,},
     {"id":{"name":"xstring_count","path":"scripts/xstring_count/xstring_count.yy",},"order":14,},
@@ -18,6 +19,7 @@
     {"id":{"name":"xstring_ends_with","path":"scripts/xstring_ends_with/xstring_ends_with.yy",},"order":4,},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":2,},
     {"id":{"name":"xstring_trim","path":"scripts/xstring_trim/xstring_trim.yy",},"order":8,},
+    {"id":{"name":"xstring_last_index_of","path":"scripts/xstring_last_index_of/xstring_last_index_of.yy",},"order":19,},
     {"id":{"name":"xstring_compare","path":"scripts/xstring_compare/xstring_compare.yy",},"order":0,},
   ],
   "Options": [

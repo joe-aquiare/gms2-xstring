@@ -69,6 +69,9 @@ function xstring_builder() {
 	
 }
 
+//Shorthand for xstring_builder.
+function xs_b() { return xstring_builder(); }
+
 #region Private functions ------------------------------------------
 
 /// @function            __xstring_cleanup()

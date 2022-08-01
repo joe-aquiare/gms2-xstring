@@ -8,3 +8,6 @@ function xstring_enclose(str, ends) {
 	return string_copy(ends, 0, string_length(ends) / 2) + str + string_copy(ends, (string_length(ends) / 2) + 1, string_length(ends) / 2);
 	
 }
+
+//Shorthand for xstring_enclose.
+function xs_e(str, ends) { return xstring_enclose(str, ends); }

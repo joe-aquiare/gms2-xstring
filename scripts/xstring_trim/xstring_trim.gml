@@ -23,3 +23,6 @@ function xstring_trim(str) {
     return string_copy(str, front_pos, end_pos - front_pos + 1);
 	
 }
+
+//Shorthand for xstring_trim.
+function xs_t(str) { return xstring_trim(str); }

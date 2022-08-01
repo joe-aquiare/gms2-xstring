@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {"id":{"name":"xstring_trim_start","path":"scripts/xstring_trim_start/xstring_trim_start.yy",},"order":10,},
+    {"id":{"name":"xstring_enclose","path":"scripts/xstring_enclose/xstring_enclose.yy",},"order":3,},
+    {"id":{"name":"xstring_split","path":"scripts/xstring_split/xstring_split.yy",},"order":5,},
+    {"id":{"name":"xstring_concat","path":"scripts/xstring_concat/xstring_concat.yy",},"order":1,},
+    {"id":{"name":"xstring_trim_end","path":"scripts/xstring_trim_end/xstring_trim_end.yy",},"order":9,},
+    {"id":{"name":"xstring_contains","path":"scripts/xstring_contains/xstring_contains.yy",},"order":2,},
+    {"id":{"name":"xstring_starts_with","path":"scripts/xstring_starts_with/xstring_starts_with.yy",},"order":6,},
+    {"id":{"name":"xstring_substring","path":"scripts/xstring_substring/xstring_substring.yy",},"order":7,},
+    {"id":{"name":"xstring_ends_with","path":"scripts/xstring_ends_with/xstring_ends_with.yy",},"order":4,},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":2,},
+    {"id":{"name":"xstring_trim","path":"scripts/xstring_trim/xstring_trim.yy",},"order":8,},
+    {"id":{"name":"xstring_compare","path":"scripts/xstring_compare/xstring_compare.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/xstring.yy","order":1,"resourceVersion":"1.0","name":"xstring","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/xstring/Scripts.yy","order":1,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.6.0.23",
+  },
+  "resourceVersion": "1.5",
+  "name": "xstring",
+  "tags": [],
+  "resourceType": "GMProject",
+}

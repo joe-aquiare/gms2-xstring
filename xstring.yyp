@@ -3,6 +3,7 @@
     {"id":{"name":"xstring_trim_start","path":"scripts/xstring_trim_start/xstring_trim_start.yy",},"order":10,},
     {"id":{"name":"xstring_enclose","path":"scripts/xstring_enclose/xstring_enclose.yy",},"order":3,},
     {"id":{"name":"xstring_split","path":"scripts/xstring_split/xstring_split.yy",},"order":5,},
+    {"id":{"name":"xstring_to_ascii","path":"scripts/xstring_to_ascii/xstring_to_ascii.yy",},"order":12,},
     {"id":{"name":"xstring_concat","path":"scripts/xstring_concat/xstring_concat.yy",},"order":1,},
     {"id":{"name":"xstring_slice","path":"scripts/xstring_slice/xstring_slice.yy",},"order":11,},
     {"id":{"name":"xstring_trim_end","path":"scripts/xstring_trim_end/xstring_trim_end.yy",},"order":9,},

@@ -12,6 +12,7 @@
     {"id":{"name":"xstring_contains","path":"scripts/xstring_contains/xstring_contains.yy",},"order":2,},
     {"id":{"name":"xstring_starts_with","path":"scripts/xstring_starts_with/xstring_starts_with.yy",},"order":6,},
     {"id":{"name":"xstring_substring","path":"scripts/xstring_substring/xstring_substring.yy",},"order":7,},
+    {"id":{"name":"xstring_builder","path":"scripts/xstring_builder/xstring_builder.yy",},"order":15,},
     {"id":{"name":"xstring_ends_with","path":"scripts/xstring_ends_with/xstring_ends_with.yy",},"order":4,},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":2,},
     {"id":{"name":"xstring_trim","path":"scripts/xstring_trim/xstring_trim.yy",},"order":8,},

@@ -4,6 +4,8 @@
 
 <b>xstring</b> adds extended string functionality to Gamemaker Studio 2, making it easier to manage and manipulate strings inside your game. 
 
+<br><br>
+
 <h4>With traditional GML:</h4>
 
 ```c#

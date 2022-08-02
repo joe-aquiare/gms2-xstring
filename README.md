@@ -40,4 +40,8 @@ var substr = "chuck";
 return xstring_last_index_of(str, substr);
 ```
 
-<b>Documentation</b>
+<br>
+
+<p align="center">
+  <b>Documentation</b>
+</p>

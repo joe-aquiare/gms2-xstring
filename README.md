@@ -39,3 +39,9 @@ var substr = "chuck";
 //Get last index
 return xstring_last_index_of(str, substr);
 ```
+
+<br>
+
+<p align="center">
+  <b>Documentation</b>
+</p>

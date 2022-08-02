@@ -1,5 +1,5 @@
 /// @function    xstring_concat()
-/// @description Concatenates multiple strings and/or character together.
+/// @description Concatenates multiple strings and/or characters together.
 
 function xstring_concat() {
 	
